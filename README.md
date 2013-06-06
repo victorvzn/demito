@@ -17,8 +17,8 @@ Links importantes
 -----------------
 
 * DOING MORE WITH THE DJANGO ADMIN (Listing 13 y Listing 14)
-http://www.ibm.com/developerworks/library/os-django-admin/
+(http://www.ibm.com/developerworks/library/os-django-admin/)
 
 * CUSTOMIZING-THE-DJANGO-ADMIN (Diapositiva 48)
-http://www.slideshare.net/lincolnloop/customizing-the-django-admin
+(http://www.slideshare.net/lincolnloop/customizing-the-django-admin)
 
