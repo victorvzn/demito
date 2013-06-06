@@ -9,9 +9,10 @@ Ver cambios importantes en:
 
 Cómo usarlo
 -----------
-Al ejecutar el proyecto demito(demo chiquito) se tiene un usuario admin y dos usuarios adicionales(user===password), 
-cada uno ha creado registros y solo pueden ver solo los que han creado.1
-Solo el administrador puede ver todos los registros que los demás usuarios crearon.
+Al ejecutar el proyecto demito(demo chiquito) se tiene un usuario admin y dos usuarios adicionales(user===password). 
+Cada usuario adicional ha creado registros y solo ve los que registros que ha creado.
+
+NOTA: Solo el administrador puede ver todos los registros que los demás usuarios crearon.
 
 Links importantes
 -----------------
