@@ -16,9 +16,9 @@ ver todos los registros creados por los usuarios.
 Links importantes
 -----------------
 
-* DOING MORE WITH THE DJANGO ADMIN (Listing 13 y Listing 14)
-(http://www.ibm.com/developerworks/library/os-django-admin/)
+* DOING MORE WITH THE DJANGO ADMIN (Listing 13 y Listing 14)<br>
+http://www.ibm.com/developerworks/library/os-django-admin/
 
-* CUSTOMIZING-THE-DJANGO-ADMIN (Diapositiva 48)
-(http://www.slideshare.net/lincolnloop/customizing-the-django-admin)
+* CUSTOMIZING-THE-DJANGO-ADMIN (Diapositiva 48)<br>
+http://www.slideshare.net/lincolnloop/customizing-the-django-admin
 
